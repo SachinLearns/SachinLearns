@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sachin Motwani</h1>
 <h3 align="center">A problem solver and a passionate AI researcher from India</h3>
 
