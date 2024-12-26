@@ -24,13 +24,13 @@ I am a **Machine Learning** and **Data Science** enthusiast passionate about usi
 
 ### 💬 **Connect With Me**:
 <p align="center" style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-  <a href="https://twitter.com/sachinbdmotwani" target="_blank">
+  <a href="https://twitter.com/sachinlearns" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="28" height="28"/>
   </a>
-  <a href="https://linkedin.com/in/sachin-motwani" target="_blank">
+  <a href="https://linkedin.com/in/sachinlearns" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="28" height="28"/>
   </a>
-  <a href="https://instagram.com/sachinbdmotwani" target="_blank">
+  <a href="https://instagram.com/sachinlearns" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="28" height="28"/>
   </a>
   <a href="https://sachinlearns.com" target="_blank">
